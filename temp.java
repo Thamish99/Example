@@ -1,8 +1,12 @@
 public class temp {
 
-    public temp(String num){
+   int a,b,c;
+   String str;
 
-    }
+   public temp(){
+      
+   }
+
    public static void main(String[] args) {
         System.out.println("Hello !");
    }
